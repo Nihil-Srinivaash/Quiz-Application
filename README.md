@@ -3,22 +3,33 @@
 This is a simple Online Quiz Game built with HTML, CSS, and JavaScript. The quiz consists of multiple-choice questions with a countdown timer, providing users with interactive feedback and a scoring system. It also includes a feature to restart the quiz once completed.
 
 Key Features :
-HTML Structure:
+•	quiz-container: Encloses the entire quiz game layout.
+•	quiz-box: Displays the current question, answer options, timer, and the "Next Question" button.
+•	result-box: Displays the final score and a "Restart Quiz" button after quiz completion.
 
-quiz-container: Contains the overall layout of the quiz game.
-quiz-box: Displays the question, answer options, timer, and next button.
-result-box: Displays the final score and a restart button once the quiz is completed.
 Functionalities:
-
-Questions Display: Displays the current question with answer options.
-Timer: A countdown timer (initially set to 15 seconds) for each question.
-Next Button: Button to proceed to the next question (disabled until a choice is made).
-Score Display: After completing the quiz, the final score is displayed.
-Restart Quiz: Option to restart the quiz after completion.
+•	Questions Display: Shows the current question with answer choices.
+•	Timer: Countdown timer (set to 15 seconds) for each question.
+•	Next Button: Disabled until the user selects an answer, then allows navigation to the next question.
+•	Score Display: Shows the user’s score after completing the quiz.
+•	Restart Quiz: Enables restarting the quiz after completion.
 Styling:
+External CSS: Uses a separate style.css file for styling the layout and visual elements.
 
-External CSS file (style.css) for styling the elements and layout of the quiz.
 Interactivity:
+JavaScript (script.js): Manages the quiz logic, including:
+	Displaying questions
+	Handling the countdown timer
+	Scoring system
+	Transitioning between questions
+	User Interaction: Users can select multiple-choice answers and move between questions.
 
-JavaScript (script.js) handles the quiz logic, including displaying questions, timer management, scoring, and transitioning between questions.
-Users can interact with multiple choice answers and navigate through the quiz.
+Technology Stack:
+Frontend:
+	HTML: For structuring the content and layout.
+	CSS: For styling and layout formatting.
+	JavaScript: For interactive functionality (question handling, timer, scoring, etc.).
+
+Tools:
+	Text Editor/IDE: Visual Studio Code, Sublime Text, etc.
+	Web Browser: To view and test the application.
