@@ -29,10 +29,15 @@ External CSS: Uses a separate style.css file for styling the layout and visual e
 Interactivity:
 
 JavaScript (script.js): Manages the quiz logic, including:
+
 	Displaying questions
+
 	Handling the countdown timer
+
 	Scoring system
+
 	Transitioning between questions
+
 	User Interaction: Users can select multiple-choice answers and move between questions.
 
 Technology Stack:
@@ -40,10 +45,13 @@ Technology Stack:
 Frontend:
 
 	HTML: For structuring the content and layout.
+
 	CSS: For styling and layout formatting.
+
 	JavaScript: For interactive functionality (question handling, timer, scoring, etc.).
 
 Tools:
 
 	Text Editor/IDE: Visual Studio Code, Sublime Text, etc.
+
 	Web Browser: To view and test the application.
