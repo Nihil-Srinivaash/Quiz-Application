@@ -5,16 +5,23 @@ This is a simple Online Quiz Game built with HTML, CSS, and JavaScript. The quiz
 Key Features :
 
 •	quiz-container: Encloses the entire quiz game layout.
+
 •	quiz-box: Displays the current question, answer options, timer, and the "Next Question" button.
+
 •	result-box: Displays the final score and a "Restart Quiz" button after quiz completion.
 
 Functionalities:
 
 •	Questions Display: Shows the current question with answer choices.
+
 •	Timer: Countdown timer (set to 15 seconds) for each question.
+
 •	Next Button: Disabled until the user selects an answer, then allows navigation to the next question.
+
 •	Score Display: Shows the user’s score after completing the quiz.
+
 •	Restart Quiz: Enables restarting the quiz after completion.
+
 Styling:
 
 External CSS: Uses a separate style.css file for styling the layout and visual elements.
