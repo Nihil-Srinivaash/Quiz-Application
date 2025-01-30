@@ -2,7 +2,7 @@
 
 This is a simple Online Quiz Game built with HTML, CSS, and JavaScript. The quiz consists of multiple-choice questions with a countdown timer, providing users with interactive feedback and a scoring system. It also includes a feature to restart the quiz once completed.
 
-Key Features :
+# Key Features :
 
 •	quiz-container: Encloses the entire quiz game layout.
 
@@ -10,7 +10,7 @@ Key Features :
 
 •	result-box: Displays the final score and a "Restart Quiz" button after quiz completion.
 
-Functionalities:
+# Functionalities:
 
 •	Questions Display: Shows the current question with answer choices.
 
@@ -22,11 +22,11 @@ Functionalities:
 
 •	Restart Quiz: Enables restarting the quiz after completion.
 
-Styling:
+# Styling:
 
 External CSS: Uses a separate style.css file for styling the layout and visual elements.
 
-Interactivity:
+# Interactivity:
 
 JavaScript (script.js): Manages the quiz logic, including:
 
@@ -42,7 +42,7 @@ JavaScript (script.js): Manages the quiz logic, including:
 
 Technology Stack:
 
-Frontend:
+# Frontend:
 
 	HTML: For structuring the content and layout.
 
@@ -50,7 +50,7 @@ Frontend:
 
 	JavaScript: For interactive functionality (question handling, timer, scoring, etc.).
 
-Tools:
+# Tools:
 
 	Text Editor/IDE: Visual Studio Code, Sublime Text, etc.
 
